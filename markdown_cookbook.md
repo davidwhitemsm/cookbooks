@@ -248,16 +248,19 @@ LIMIT 1000
 ## 08. Links
 
 ```markdown
-<!-- link syntax -->
+<!-- link syntax -->  
+  
+method 1:  
 [LINK TEXT](URL "title rendered as tooltip")
 
-or enclose URL or email address in angle brackets <email@domain.com>
+method 2:    
+enclose URL or email address in angle brackets <email@domain.com>
 ```
 
-`link example 1`
+`method 1 link example`
 [The Huffington Post](https://www.huffpost.com/ "HuffPost - Breaking News, U.S. and World News | HuffPost")
 
-`link example 2`
+`method 2 link example`
 <arianna@huffingtonpost.com>
 ***
 
