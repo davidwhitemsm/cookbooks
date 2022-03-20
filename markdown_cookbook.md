@@ -1,6 +1,8 @@
 # Markdown Cookbook  
 
-**Adapted from [*The Markdown Guide*](https://www.markdownguide.org/book) by Matt Cone**
+**Compiled by David White <david@msmdesign.nyc>**
+
+**Adapted from [*The Markdown Guide*](https://www.markdownguide.org/book) by Matt Cone**  
 
 ***
 
@@ -60,7 +62,22 @@
 ~~strikethourgh~~
 ***
 
-## 03. Horizontal Rules
+## 03. Line Breaks  
+
+```markdown
+<!-- line break syntax -->
+
+To create a line break, add two blank spaces at the end of a line and then press `RETURN`.  
+```
+
+`line break example`  
+
+This is line 1.  
+This is line 2.
+
+***
+
+## 04. Horizontal Rules
 
 ```markdown
 <!-- horizontal rule syntax -->
@@ -71,7 +88,7 @@
 `horizontal rule example`
 ***
 
-## 04. Block Quotes
+## 05. Block Quotes
 
 ```markdown
 <!-- block quote syntax -->
@@ -134,7 +151,7 @@
 
 ***
 
-## 05. Code Blocks
+## 06. Code Blocks
 
 ### Inline Code
 
@@ -175,7 +192,7 @@ LIMIT 1000
 
 ***
 
-## 06. Lists
+## 07. Lists
 
 ### Ordered Lists
 
@@ -243,11 +260,35 @@ you can use backslash (\) to escape the period -->
 
 ***
 
-## 07. Tables
+## 08. Tables
+
+```markdown
+<!-- table syntax -->
+
+<!-- the row directly below the column header determines the columns' text alignment -->
+
+| Column A Header (left justified text) | Column B Header (centered text) | Column C Header (right justified text) |
+| :---         | :----:       | ---:         |
+| Data Cell A1 | Data Cell B1 | Data Cell C1 |
+| Data Cell A2 | Data Cell B2 | Data Cell C2 |
+| Data Cell A3 | Data Cell B3 | Data Cell C3 |
+| Data Cell A4 | Data Cell B4 | Data Cell C4 |
+| Data Cell A5 | Data Cell B5 | Data Cell C5 |
+```
+
+`table example`
+
+| Column A Header (left justified text) | Column B Header (centered text) | Column C Header (right justified text) |
+| :---         | :----:       | ---:         |
+| Data Cell A1 | Data Cell B1 | Data Cell C1 |
+| Data Cell A2 | Data Cell B2 | Data Cell C2 |
+| Data Cell A3 | Data Cell B3 | Data Cell C3 |
+| Data Cell A4 | Data Cell B4 | Data Cell C4 |
+| Data Cell A5 | Data Cell B5 | Data Cell C5 |
 
 ***
 
-## 08. Links
+## 09. Links
 
 ```markdown
 <!-- link syntax -->  
@@ -266,7 +307,7 @@ enclose URL or email address in angle brackets <email@domain.com>
 <arianna@huffingtonpost.com>
 ***
 
-## 09. Images
+## 10. Images
 
 ### Unlinked Images
 
@@ -290,11 +331,12 @@ and append the link URL enclosed in parentheses.
 [![alt text](file_path_or_URL "image title")](image_URL)
 ```  
 
-`linked image example`
+`linked image example`  
+
 [![Markdown Logo](https://github.com/dcurtis/markdown-mark/blob/983259b19bbc9673e9cf337b98ac899bf8a1484a/png/208x128.png "visit: https://en.wikipedia.org/wiki/Markdown")](https://en.wikipedia.org/wiki/Markdown)
 
 ***
 
-## 10. Footnotes  
+## 11. Footnotes  
 
 ***  
