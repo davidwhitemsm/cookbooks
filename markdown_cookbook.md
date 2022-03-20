@@ -265,7 +265,7 @@ you can use backslash (\) to escape the period -->
 ```markdown
 <!-- table syntax -->
 
-<!-- the row directly below the column header determines the columns' text alignment -->
+<!-- the row directly below the column header determines the column's text alignment -->
 
 | Column A Header (left justified text) | Column B Header (centered text) | Column C Header (right justified text) |
 | :---               | :----:             | ---:               |
@@ -338,5 +338,9 @@ and append the link URL enclosed in parentheses.
 ***
 
 ## 11. Footnotes  
+
+My Footnote 1[^1]
+
+My Footnote 1[1^]: Reference
 
 ***  
