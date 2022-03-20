@@ -257,10 +257,10 @@ method 2:
 enclose URL or email address in angle brackets <email@domain.com>
 ```
 
-`method 1 link example`
+`method 1 link example`  
 [The Huffington Post](https://www.huffpost.com/ "HuffPost - Breaking News, U.S. and World News | HuffPost")
 
-`method 2 link example`
+`method 2 link example`  
 <arianna@huffingtonpost.com>
 ***
 
