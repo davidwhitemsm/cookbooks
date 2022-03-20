@@ -341,6 +341,6 @@ and append the link URL enclosed in parentheses.
 
 My Footnote 1[^1]
 
-My Footnote 1[1^]: Reference
+[1^]: Reference
 
 ***  
