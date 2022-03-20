@@ -155,7 +155,8 @@ enclose `code` in backticks
  - your code snippet
  - three backticks
 
-<!-- If the word or phrase you want to denote as code includes backticks, escape it by enclosing the entire line in double backticks
+<!-- If the word or phrase you want to denote as code includes backticks,  
+escape it by enclosing the entire line in double backticks
 
 For example:
 ``Use `code` in your markdown file.`` -->
@@ -209,7 +210,8 @@ LIMIT 1000
         - double-indented item 1
         - double-indented item 2
 - fourth item
-<!-- if you need to start an unordered list item with a number followed by a period, you can use backslash (\) to escape the period -->
+<!-- if you need to start an unordered list item with a number followed by a period,  
+you can use backslash (\) to escape the period -->
 ```
 
 `unordered list example`
@@ -270,8 +272,9 @@ enclose URL or email address in angle brackets <email@domain.com>
 
 ```markdown
 <!-- unlinked images syntax -->
-![alt text rendered as caption](file_path_or_URL "image title")
+![alt text](file_path_or_URL "image title")  
 ```
+
 `unlinked image example`  
 ![Markdown Logo](https://github.com/dcurtis/markdown-mark/blob/983259b19bbc9673e9cf337b98ac899bf8a1484a/png/208x128.png "Markdown Logo 208x128.png")
 
@@ -279,10 +282,13 @@ enclose URL or email address in angle brackets <email@domain.com>
 
 ```markdown
 <!-- linked images syntax-->
-To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.  
+To add a link to an image, enclose the Markdown for the image in brackets,  
+and append the link URL enclosed in parentheses.  
+[![alt text](file_path_or_URL "image title")](image_URL)
+```
 
-Example:
-[![An old rock in the desert](images/shiprock.jpg)](https://en.wikipedia.org/wiki/Shiprock)
+`linked image example`
+[![Markdown Logo](https://github.com/dcurtis/markdown-mark/blob/983259b19bbc9673e9cf337b98ac899bf8a1484a/png/208x128.png "Markdown Logo 208x128.png")](https://en.wikipedia.org/wiki/Markdown)
 ```
 
 ***
