@@ -81,24 +81,27 @@
 
 ‎  
 
-> multi
-> line
-> block quote  
+> multi-line
+> block
+> quote   
 
 ‎
 
-> multi
-> line 
-> block quote with
+
+> multi-line
+> block  
+> quote with
 >
-> space  
+> space    
 
 ‎
 
-> multi
-> line
-> block quote with
->> nesting within quote
+> multi-line
+> block
+> quote with
+>> nested text within
+>>
+> the larger block quote
 ```
 
 ***
@@ -109,20 +112,22 @@
 
 ‎
 
-> multi
-> line
-> block quote
-> multi
-> line  
-> block quote with
+> multi-line
+> block
+> quote  
+
+‎
+> multi-line
+> block  
+> quote with
 >
 > space  
 
 ‎
 
-> multi
-> line
-> block quote with
+> multi-line
+> block
+> quote with
 >> nested text within
 >>
 > the larger block quote
