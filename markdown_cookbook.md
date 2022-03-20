@@ -339,8 +339,23 @@ and append the link URL enclosed in parentheses.
 
 ## 11. Footnotes  
 
-My Footnote 1[^1]
+```markdown
 
-[1^]: Reference
+<!-- footnotes syntax -->  
+
+Here is a simple footnote[^1]. With some additional text after it.
+
+[^1]: My reference.
+```
+
+`footnotes example`
+
+This is a short footnote[^1] and this is a longer footnote [^2] followed by some additional text.
+
+[^1]: A single-line reference.
+[^2]: A multi-line reference.
+        Indent parageaphs to include them in the footnote.  
+        Use back ticks to include `code`.
+        Your reference may be as many lines long as you'd like.
 
 ***  
