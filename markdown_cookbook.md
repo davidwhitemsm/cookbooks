@@ -271,25 +271,27 @@ enclose URL or email address in angle brackets <email@domain.com>
 ### Unlinked Images
 
 ```markdown
-<!-- unlinked images syntax -->
+<!-- unlinked images syntax -->  
+
 ![alt text](file_path_or_URL "image title")  
 ```
 
 `unlinked image example`  
+
 ![Markdown Logo](https://github.com/dcurtis/markdown-mark/blob/983259b19bbc9673e9cf337b98ac899bf8a1484a/png/208x128.png "Markdown Logo 208x128.png")
 
 ### Linked Images
 
 ```markdown
-<!-- linked images syntax-->
+<!-- linked images syntax-->  
+
 To add a link to an image, enclose the Markdown for the image in brackets,  
 and append the link URL enclosed in parentheses.  
 [![alt text](file_path_or_URL "image title")](image_URL)
-```
+```  
 
 `linked image example`
-[![Markdown Logo](https://github.com/dcurtis/markdown-mark/blob/983259b19bbc9673e9cf337b98ac899bf8a1484a/png/208x128.png "Markdown Logo 208x128.png")](https://en.wikipedia.org/wiki/Markdown)
-```
+[![Markdown Logo](https://github.com/dcurtis/markdown-mark/blob/983259b19bbc9673e9cf337b98ac899bf8a1484a/png/208x128.png "visit: https://en.wikipedia.org/wiki/Markdown")](https://en.wikipedia.org/wiki/Markdown)
 
 ***
 
