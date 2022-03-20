@@ -272,6 +272,8 @@ enclose URL or email address in angle brackets <email@domain.com>
 <!-- unlinked images syntax -->
 ![alt text rendered as caption](file_path_or_URL "image title")
 ```
+`unlinked image example`  
+![Markdown Logo](https://github.com/dcurtis/markdown-mark/blob/983259b19bbc9673e9cf337b98ac899bf8a1484a/png/208x128.png "Markdown Logo 208x128.png")
 
 ### Linked Images
 
