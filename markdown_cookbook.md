@@ -268,23 +268,23 @@ you can use backslash (\) to escape the period -->
 <!-- the row directly below the column header determines the columns' text alignment -->
 
 | Column A Header (left justified text) | Column B Header (centered text) | Column C Header (right justified text) |
-| :---         | :----:       | ---:         |
-| Data Cell A1 | Data Cell B1 | Data Cell C1 |
-| Data Cell A2 | Data Cell B2 | Data Cell C2 |
-| Data Cell A3 | Data Cell B3 | Data Cell C3 |
-| Data Cell A4 | Data Cell B4 | Data Cell C4 |
-| Data Cell A5 | Data Cell B5 | Data Cell C5 |
+| :---               | :----:             | ---:               |
+| Table Data Cell A1 | Table Data Cell B1 | Table Data Cell C1 |
+| Table Data Cell A2 | Table Data Cell B2 | Table Data Cell C2 |
+| Table Data Cell A3 | Table Data Cell B3 | Table Data Cell C3 |
+| Table Data Cell A4 | Table Data Cell B4 | Table Data Cell C4 |
+| Table Data Cell A5 | Table Data Cell B5 | Table Data Cell C5 |
 ```
 
 `table example`
 
 | Column A Header (left justified text) | Column B Header (centered text) | Column C Header (right justified text) |
-| :---         | :----:       | ---:         |
-| Data Cell A1 | Data Cell B1 | Data Cell C1 |
-| Data Cell A2 | Data Cell B2 | Data Cell C2 |
-| Data Cell A3 | Data Cell B3 | Data Cell C3 |
-| Data Cell A4 | Data Cell B4 | Data Cell C4 |
-| Data Cell A5 | Data Cell B5 | Data Cell C5 |
+| :---               | :----:             | ---:               |
+| Table Data Cell A1 | Table Data Cell B1 | Table Data Cell C1 |
+| Table Data Cell A2 | Table Data Cell B2 | Table Data Cell C2 |
+| Table Data Cell A3 | Table Data Cell B3 | Table Data Cell C3 |
+| Table Data Cell A4 | Table Data Cell B4 | Table Data Cell C4 |
+| Table Data Cell A5 | Table Data Cell B5 | Table Data Cell C5 |
 
 ***
 
