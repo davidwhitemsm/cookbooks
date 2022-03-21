@@ -1,3 +1,5 @@
+[![MSM Logo](https://github.com/davidwhitemsm/images-for-readme-documentation/blob/main/v4%20MSM%20Logo_URL_Tagline-01.png)](https://github.com/davidwhitemsm/images-for-readme-documentation/blob/main/v4%20MSM%20Logo_URL_Tagline-01.png)
+
 # Markdown Cookbook  
 
 **Compiled by David White <david@msmdesign.nyc>**
